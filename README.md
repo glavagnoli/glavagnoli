@@ -1,6 +1,21 @@
-### Olá! 
+# Sobre mim / About me
 
-Sou professor de Matemática da Ufes, atuo do campus de Alegre e leciono cálculo, equações diferenciais e álgebra linear para estudantes de diversos cursos de graduação, incluindo, Engenharias, Matemática, Física e Ciência da Computação. Atualmente sou doutorando em Ciências Florestais (UFES - Jerônimo Monteiro), membro do [Laboratório de Mensuração e Manejo Florestal](https://www.lamflor.ufes.br/) e faço pesquisa na área de matemática aplicada à mensuração florestal.
+## 🇧🇷 Olá!
 
-Para entrar em contato escreva para: glavagnoli@gmail.com
+Sou professor de Matemática na UFES (campus de Alegre). Dou aulas de Cálculo, Equações Diferenciais e Álgebra Linear para alunos de vários cursos, como Engenharias, Matemática, Física e Ciência da Computação.  
+Também faço pesquisa em matemática aplicada à área de mensuração florestal.
+
+**Pode me chamar no e-mail:** glavagnoli@gmail.com
+
+---
+
+## 🇦🇺 Hello!
+
+I'm a Mathematics professor at UFES (Alegre campus). I teach Calculus, Differential Equations, and Linear Algebra to students from different majors, like Engineering, Mathematics, Physics, and Computer Science.  
+I also do research in applied mathematics for forest measurement.
+
+**Feel free to drop me an email:** glavagnoli@gmail.com
+
+
+
 
